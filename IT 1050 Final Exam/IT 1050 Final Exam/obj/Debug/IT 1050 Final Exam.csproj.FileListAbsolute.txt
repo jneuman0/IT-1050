@@ -1,0 +1,7 @@
+C:\Users\jneuman0\Desktop\IT 1050 Final Exam\IT 1050 Final Exam\obj\Debug\IT 1050 Final Exam.csprojResolveAssemblyReference.cache
+C:\Users\jneuman0\Desktop\IT 1050 Final Exam\IT 1050 Final Exam\obj\Debug\IT 1050 Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\jneuman0\Desktop\IT 1050 Final Exam\IT 1050 Final Exam\bin\Debug\IT 1050 Final Exam.exe.config
+C:\Users\jneuman0\Desktop\IT 1050 Final Exam\IT 1050 Final Exam\bin\Debug\IT 1050 Final Exam.exe
+C:\Users\jneuman0\Desktop\IT 1050 Final Exam\IT 1050 Final Exam\bin\Debug\IT 1050 Final Exam.pdb
+C:\Users\jneuman0\Desktop\IT 1050 Final Exam\IT 1050 Final Exam\obj\Debug\IT 1050 Final Exam.exe
+C:\Users\jneuman0\Desktop\IT 1050 Final Exam\IT 1050 Final Exam\obj\Debug\IT 1050 Final Exam.pdb
