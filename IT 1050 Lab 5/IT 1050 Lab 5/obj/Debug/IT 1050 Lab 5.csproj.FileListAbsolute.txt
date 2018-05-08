@@ -1,0 +1,7 @@
+C:\Users\jneuman0\Desktop\IT 1050 Lab 5\IT 1050 Lab 5\bin\Debug\IT 1050 Lab 5.exe.config
+C:\Users\jneuman0\Desktop\IT 1050 Lab 5\IT 1050 Lab 5\bin\Debug\IT 1050 Lab 5.exe
+C:\Users\jneuman0\Desktop\IT 1050 Lab 5\IT 1050 Lab 5\bin\Debug\IT 1050 Lab 5.pdb
+C:\Users\jneuman0\Desktop\IT 1050 Lab 5\IT 1050 Lab 5\obj\Debug\IT 1050 Lab 5.csprojResolveAssemblyReference.cache
+C:\Users\jneuman0\Desktop\IT 1050 Lab 5\IT 1050 Lab 5\obj\Debug\IT 1050 Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\jneuman0\Desktop\IT 1050 Lab 5\IT 1050 Lab 5\obj\Debug\IT 1050 Lab 5.exe
+C:\Users\jneuman0\Desktop\IT 1050 Lab 5\IT 1050 Lab 5\obj\Debug\IT 1050 Lab 5.pdb
